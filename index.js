@@ -50,8 +50,6 @@ const main = async() => {
             console.log('Vehicle details:', JSON.stringify(vehicleDetails, null, 4));
         }
 
-        setInterval(main, 120000);
-
     } catch (error) {
         console.error('Error:', error);
     }
