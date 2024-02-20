@@ -8,7 +8,7 @@ To get started with this project, follow the steps below:
 
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies by running `npm install`.
-3. Obtain the required API credentials from Ford's developer portal.
+3. Obtain the required API credentials from Ford's developer [portal](https://developer.ford.com/apis/fordconnect).
 4. Update the configuration file with your API credentials.
 5. Run the project using the command `npm start`.
 
